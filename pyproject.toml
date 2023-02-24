@@ -1,0 +1,22 @@
+[project]
+name = "ccxtbacktester"
+
+version = "0.0.1"
+
+description = "Simple Fake Exchange based Backtesting Library for ccxt"
+
+requires-python = ">=3.8"
+
+license = {file = "LICENSE"}
+
+
+
+dependencies = [
+    "tqdm",
+    "numpy",
+]
+
+
+[build-system]
+requires = ["setuptools>=43.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
