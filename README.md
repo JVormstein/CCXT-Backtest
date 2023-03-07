@@ -1,6 +1,6 @@
 # ccxt-backtest
  Fake Exchange based BAcktesting libary for ccxt in Python
- *At the Moment the library only supports only a few main functions and does not allow shorting.*
+ *At the Moment the library supports only a few main functions and does not allow shorting.*
 
 ## Installation
 Just download the repository and run `pip install .` in the directory with `pyproject.toml` file.
